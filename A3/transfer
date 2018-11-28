@@ -1,0 +1,8 @@
+#!/bin/bash
+
+scp /home/cent/Documents/CIS2520/A3/*.c edykhne@portkey.socs.uoguelph.ca:CIS2520/A3/.
+scp /home/cent/Documents/CIS2520/A3/*.h edykhne@portkey.socs.uoguelph.ca:CIS2520/A3/.
+scp /home/cent/Documents/CIS2520/A3/*.bin edykhne@portkey.socs.uoguelph.ca:CIS2520/A3/.
+scp /home/cent/Documents/CIS2520/A3/makefile edykhne@portkey.socs.uoguelph.ca:CIS2520/A3/.
+
+
